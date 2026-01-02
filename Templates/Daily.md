@@ -2,18 +2,18 @@
 date: {{date}}
 ---
 
-# {{date:YYYY-MM-DD}} {{date:dddd}}
+# {{date:YYYY-MM-DD}}
 
-## Yesterday
+## 어제 한 일
+- [ ] 
+
+## 오늘 할 일
+- [ ]
+
+## 막힌 일
 -
 
-## Today
--
-
-## Blockers
--
-
-## Notes
+## 특이사항
 -
 
 ---
