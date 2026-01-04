@@ -58,8 +58,8 @@ second-brain/
 | "React Native 성능 최적화 팁" | `Areas/Development/` | 개발 영역 지속 관리 |
 | "프리다이빙 호흡법 정리" | `Areas/Freediving/` | 프리다이빙 영역 |
 | "2월 일본 여행 계획" | `Projects/일본-여행-2월.md` | 마감일 있는 계획 |
-| "크로스핏 WOD 기록" | `Areas/Fitness/` | 운동 영역 |
-| "오늘 묵상 내용" | `Areas/Faith/` | 신앙 영역 |
+| "크로스핏 WOD 기록" | `Areas/CrossFit/` | 크로스핏 영역 |
+| "오늘 묵상 내용" | `Areas/Christian/` | 신앙 영역 |
 | "맛집 리스트" | `Resources/맛집-리스트.md` | 참고 정보 |
 | "여행 패킹 체크리스트" | `Resources/여행-패킹-체크리스트.md` | 재사용 참고 정보 |
 
@@ -67,8 +67,8 @@ second-brain/
 
 - `Areas/Development/` - 개발 관련
 - `Areas/Freediving/` - 프리다이빙
-- `Areas/Fitness/` - 크로스핏, 운동
-- `Areas/Faith/` - 신앙생활
+- `Areas/CrossFit/` - 크로스핏
+- `Areas/Christian/` - 신앙생활
 - `Areas/Travel/` - 여행 (지속적 관심사)
 - `Areas/Life/` - 일상적인 생각, 기타
 
@@ -103,7 +103,7 @@ second-brain/
 
 ```markdown
 [홈](./index.md)
-[크로스핏 루틴](./Areas/Fitness/크로스핏-루틴.md)
+[크로스핏 루틴](./Areas/CrossFit/크로스핏-루틴.md)
 [오늘 데일리](./Daily/2026-01-02.md)
 ```
 

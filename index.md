@@ -24,8 +24,8 @@
 |------|------|
 | Development | 개발, React Native, Expo |
 | Freediving | 프리다이빙 |
-| Fitness | 크로스핏, 운동 |
-| Faith | 신앙생활 |
+| CrossFit | 크로스핏 |
+| Christian | 신앙생활 |
 | Travel | 여행 |
 | Life | 일상적인 생각 |
 
