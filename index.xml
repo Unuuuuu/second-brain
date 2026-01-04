@@ -16,30 +16,30 @@
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Sun, 04 Jan 2026 08:18:37 GMT</pubDate>
+    <pubDate>Sun, 04 Jan 2026 08:26:29 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 08:18:25 GMT</pubDate>
-  </item><item>
-    <title>CLAUDE</title>
-    <link>https://quartz.jzhao.xyz/CLAUDE</link>
-    <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
-    <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 08:18:25 GMT</pubDate>
+    <pubDate>Sun, 04 Jan 2026 08:26:10 GMT</pubDate>
   </item><item>
     <title>GAM-전환-전략</title>
     <link>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</link>
     <guid>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</guid>
     <description><![CDATA[ Adrop → Google Ad Manager 전환 전략 1. 요약 항목내용현재Adrop 광고 플랫폼목표Google Ad Manager (GAM) + 자체 광고주 어드민예상 기간3-4개월예상 비용개발 3,000-5,000만원 / 운영 월 50-100만원 2. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 08:18:25 GMT</pubDate>
+    <pubDate>Sun, 04 Jan 2026 08:26:10 GMT</pubDate>
+  </item><item>
+    <title>CLAUDE</title>
+    <link>https://quartz.jzhao.xyz/CLAUDE</link>
+    <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
+    <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
+    <pubDate>Sun, 04 Jan 2026 08:26:10 GMT</pubDate>
   </item><item>
     <title>2026-01-04</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-04</link>
     <guid>https://quartz.jzhao.xyz/Daily/2026-01-04</guid>
-    <description><![CDATA[ 2026-01-04 어제 한 일 오늘 할 일 [기타] 재진님 PR 리뷰 [기타] jackyzha0/quartz 세팅 [기타] 개인 노트북 포맷 막힌 일 특이사항 . ]]></description>
+    <description><![CDATA[ 2026-01-04 어제 한 일 오늘 할 일 [기타] 재진님 PR 리뷰 [기타] quartz 세팅 [기타] 개인 노트북 포맷 막힌 일 특이사항 . ]]></description>
     <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>quartz-세팅</title>
@@ -48,22 +48,22 @@
     <description><![CDATA[ Quartz 세팅 jackyzha0/quartz - 마크다운 기반 정적 사이트 생성기 목표 Second Brain을 웹으로 퍼블리싱 할 일 Quartz 설치 기본 설정 배포 설정 참고 . ]]></description>
     <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
+    <title>2026-01-03</title>
+    <link>https://quartz.jzhao.xyz/Daily/2026-01-03</link>
+    <guid>https://quartz.jzhao.xyz/Daily/2026-01-03</guid>
+    <description><![CDATA[ 2026-01-03 어제 한 일 오늘 할 일 [기타] 5차 책모임 준비 막힌 일 특이사항 . ]]></description>
+    <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>책모임-5차-준비</title>
     <link>https://quartz.jzhao.xyz/Projects/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-%EC%A4%80%EB%B9%84</link>
     <guid>https://quartz.jzhao.xyz/Projects/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-%EC%A4%80%EB%B9%84</guid>
-    <description><![CDATA[ 5차 책모임 준비 모임 정보 일시: 1월 3일 (토) 오후 4시~5시 분량: 9장 예배로서의 음악, 10장 예배로서의 봉헌 준비 사항 9장 읽기 10장 읽기 인상 깊은 부분 정리 나눔 질문 준비 메모. ]]></description>
+    <description><![CDATA[ 5차 책모임 준비 모임 정보 일시: 1월 3일 (토) 오후 4시~5시 분량: 9장 예배로서의 음악, 10장 예배로서의 봉헌 준비 사항 9장 읽기 10장 읽기 관련 자료 9장 예배로서의 음악 9장 요약 10장 예배로서의 봉헌 10장 요약 메모. ]]></description>
     <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>책모임-5차-10장-예배로서의-봉헌</title>
     <link>https://quartz.jzhao.xyz/Resources/Christian/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-10%EC%9E%A5-%EC%98%88%EB%B0%B0%EB%A1%9C%EC%84%9C%EC%9D%98-%EB%B4%89%ED%97%8C</link>
     <guid>https://quartz.jzhao.xyz/Resources/Christian/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-10%EC%9E%A5-%EC%98%88%EB%B0%B0%EB%A1%9C%EC%84%9C%EC%9D%98-%EB%B4%89%ED%97%8C</guid>
     <description><![CDATA[ 10장 예배로서의 봉헌 역사의 여명기부터 인간은 신에게 선물을 드려야 한다고 생각했다. 예 배라는 맥락에서 이러한 선물들은 일반적으로 ‘희생제물’(sacrices)과 ‘공물’oengs)이라고 불렸다. ]]></description>
-    <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>책모임-5차-10장-요약</title>
-    <link>https://quartz.jzhao.xyz/Resources/Christian/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-10%EC%9E%A5-%EC%9A%94%EC%95%BD</link>
-    <guid>https://quartz.jzhao.xyz/Resources/Christian/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-10%EC%9E%A5-%EC%9A%94%EC%95%BD</guid>
-    <description><![CDATA[ 10장 예배로서의 봉헌 - 핵심 요약 한 줄 요약 구약의 모든 제사는 그리스도의 십자가를 가리키며, 참된 예배는 “받기 위해 드리는 것”이 아니라 “이미 받았기에 드리는 것”이다. 1. ]]></description>
     <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
