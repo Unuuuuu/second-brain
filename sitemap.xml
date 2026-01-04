@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://quartz.jzhao.xyz/CLAUDE</loc>
-    <lastmod>2026-01-04T07:19:03.225Z</lastmod>
+    <lastmod>2026-01-04T07:26:56.113Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Daily/2026-01-02</loc>
     <lastmod>2026-01-02T00:00:00.000Z</lastmod>
@@ -10,9 +10,6 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Daily/2026-01-05</loc>
     <lastmod>2026-01-05T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Home</loc>
-    <lastmod>2026-01-04T07:19:03.225Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Projects/quartz-%EC%84%B8%ED%8C%85</loc>
     <lastmod>2026-01-04T00:00:00.000Z</lastmod>
@@ -39,5 +36,8 @@
     <lastmod>2026-01-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Templates/Daily</loc>
-    <lastmod>2026-01-04T07:19:21.441Z</lastmod>
+    <lastmod>2026-01-04T07:27:13.181Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2026-01-04T07:26:56.115Z</lastmod>
   </url></urlset>

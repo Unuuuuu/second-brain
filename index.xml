@@ -16,19 +16,19 @@
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Sun, 04 Jan 2026 07:19:21 GMT</pubDate>
+    <pubDate>Sun, 04 Jan 2026 07:27:13 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
+    <pubDate>Sun, 04 Jan 2026 07:26:56 GMT</pubDate>
   </item><item>
     <title>CLAUDE</title>
     <link>https://quartz.jzhao.xyz/CLAUDE</link>
     <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
     <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 07:19:03 GMT</pubDate>
-  </item><item>
-    <title>Home</title>
-    <link>https://quartz.jzhao.xyz/Home</link>
-    <guid>https://quartz.jzhao.xyz/Home</guid>
-    <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 07:19:03 GMT</pubDate>
+    <pubDate>Sun, 04 Jan 2026 07:26:56 GMT</pubDate>
   </item><item>
     <title>2026-01-04</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-04</link>
