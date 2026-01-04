@@ -20,14 +20,12 @@
 
 - [Areas](./Areas/)
 
-| 영역 | 설명 |
-|------|------|
-| Development | 개발, React Native, Expo |
-| Freediving | 프리다이빙 |
-| CrossFit | 크로스핏 |
-| Christian | 신앙생활 |
-| Travel | 여행 |
-| Life | 일상적인 생각 |
+| 영역        | 설명       |
+| ----------- | ---------- |
+| Developer   | 개발자     |
+| Freediver   | 프리다이버 |
+| CrossFitter | 크로스핏터 |
+| Christian   | 기독교인   |
 
 ---
 
