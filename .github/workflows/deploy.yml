@@ -25,8 +25,7 @@ jobs:
       - name: Copy content
         run: |
           rm -rf quartz-build/content
-          cp -r . quartz-build/content
-          rm -rf quartz-build/content/quartz-build
+          rsync -av --exclude='quartz-build' --exclude='.git' . quartz-build/content/
 
       - name: Build
         run: cd quartz-build && npx quartz build
