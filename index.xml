@@ -6,35 +6,47 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>2026-01-05</title>
-    <link>https://quartz.jzhao.xyz/Daily/2026-01-05</link>
-    <guid>https://quartz.jzhao.xyz/Daily/2026-01-05</guid>
-    <description><![CDATA[ 2026-01-05 어제 한 일 오늘 할 일 이재진님 노트북 닦아서 준비 (일찍 출근) 채수빈님 노트북 닦기 막힌 일 특이사항 . ]]></description>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Daily</title>
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Sun, 04 Jan 2026 10:34:23 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 10:00:38 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 10:34:07 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 10:00:24 GMT</pubDate>
   </item><item>
     <title>GAM-전환-전략</title>
     <link>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</link>
     <guid>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</guid>
     <description><![CDATA[ Adrop → Google Ad Manager 전환 전략 1. 요약 항목내용현재Adrop 광고 플랫폼목표Google Ad Manager (GAM) + 자체 광고주 어드민예상 기간3-4개월예상 비용개발 3,000-5,000만원 / 운영 월 50-100만원 2. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 10:34:07 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 10:00:24 GMT</pubDate>
   </item><item>
     <title>CLAUDE</title>
     <link>https://quartz.jzhao.xyz/CLAUDE</link>
     <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
     <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Sun, 04 Jan 2026 10:34:07 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 10:00:24 GMT</pubDate>
+  </item><item>
+    <title>2026-01-05</title>
+    <link>https://quartz.jzhao.xyz/Daily/2026-01-05</link>
+    <guid>https://quartz.jzhao.xyz/Daily/2026-01-05</guid>
+    <description><![CDATA[ 2026-01-05 어제 한 일 오늘 할 일 [기타] 이재진님 노트북 닦아서 준비 (일찍 출근) [기타] 채수빈님 노트북 닦기 [기타] 재진님 초대 목록 리스트업해서 초대하기 [기타] 희엽님 오프보딩 처리하기 막힌 일 특이사항 . ]]></description>
+    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>재진님-초대-목록</title>
+    <link>https://quartz.jzhao.xyz/Projects/%EC%9E%AC%EC%A7%84%EB%8B%98-%EC%B4%88%EB%8C%80-%EB%AA%A9%EB%A1%9D</link>
+    <guid>https://quartz.jzhao.xyz/Projects/%EC%9E%AC%EC%A7%84%EB%8B%98-%EC%B4%88%EB%8C%80-%EB%AA%A9%EB%A1%9D</guid>
+    <description><![CDATA[ 재진님 초대 목록 초대할 것들 피그마 노션 디스코드 클로드 깃헙 플레이스토어 앱스토어 어드민 Expo Supabase Firebase Upstash 레비뉴캣 센트리 리니어 (현재 사용하지 않음.) 플렉스 AWS → IAM 계정 (나중에 필요하면.) 구글 워크스페이스(이메일) 패스트파이브 카드키 사용자 정보 변경 (준우님이 요청.) . ]]></description>
+    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>희엽님-오프보딩</title>
+    <link>https://quartz.jzhao.xyz/Projects/%ED%9D%AC%EC%97%BD%EB%8B%98-%EC%98%A4%ED%94%84%EB%B3%B4%EB%94%A9</link>
+    <guid>https://quartz.jzhao.xyz/Projects/%ED%9D%AC%EC%97%BD%EB%8B%98-%EC%98%A4%ED%94%84%EB%B3%B4%EB%94%A9</guid>
+    <description><![CDATA[ 희엽님 오프보딩 해제/탈퇴할 것들 피그마 노션 디스코드 커서 AI 도구 깃헙 플레이스토어 앱스토어 어드민 Expo Supabase Firebase Upstash 레비뉴캣 센트리 리니어 플렉스 AWS → IAM 계정 구글 워크스페이스(이메일) → 보관처리 (준우님께서 처리.) 장비 포맷 후 반납 패스트파이브 멤버 탈퇴 패스트파이브 카드키 반납 . ]]></description>
+    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>2026-01-04</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-04</link>
@@ -53,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Projects/%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98-%ED%8C%A8%ED%84%B4-%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4</guid>
     <description><![CDATA[ 컴포지션 패턴 레퍼런스 재진님께 추천해드릴 컴포지션 패턴 관련 레퍼런스 정리 목표 레퍼런스 적절성 검토 전달 레퍼런스 youtu.be/N_WgBU3S9W8 - 먼저 이 영상으로 감 잡기 youtu.be/4KvbVq3Eg5w - 심화. ]]></description>
     <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>2026-01-03</title>
-    <link>https://quartz.jzhao.xyz/Daily/2026-01-03</link>
-    <guid>https://quartz.jzhao.xyz/Daily/2026-01-03</guid>
-    <description><![CDATA[ 2026-01-03 어제 한 일 오늘 할 일 [기타] 5차 책모임 준비 막힌 일 특이사항 . ]]></description>
-    <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>책모임-5차-준비</title>
-    <link>https://quartz.jzhao.xyz/Projects/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-%EC%A4%80%EB%B9%84</link>
-    <guid>https://quartz.jzhao.xyz/Projects/%EC%B1%85%EB%AA%A8%EC%9E%84-5%EC%B0%A8-%EC%A4%80%EB%B9%84</guid>
-    <description><![CDATA[ 5차 책모임 준비 모임 정보 일시: 1월 3일 (토) 오후 4시~5시 분량: 9장 예배로서의 음악, 10장 예배로서의 봉헌 준비 사항 9장 읽기 10장 읽기 관련 자료 9장 예배로서의 음악 9장 요약 10장 예배로서의 봉헌 10장 요약 메모. ]]></description>
-    <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
