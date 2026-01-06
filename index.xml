@@ -6,40 +6,52 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>2026-01-06</title>
-    <link>https://quartz.jzhao.xyz/Daily/2026-01-06</link>
-    <guid>https://quartz.jzhao.xyz/Daily/2026-01-06</guid>
-    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [기타] 재진님께 할당해드릴 태스크 점검 [스토어] 케빈스랩 상세페이지 이미지 렌더링 문제 확인 [스토어] 스토어 도메인에 존재하는 도메인 모델들 정의 Product, ProductOption, ProductReview Order, OrderOption, OrderSheet Claim, Delivery PriceInfo, RefundInfo, Receipt Partner 막힌 일 특이사항 . ]]></description>
-    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Daily</title>
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Mon, 05 Jan 2026 14:59:27 GMT</pubDate>
+    <pubDate>Tue, 06 Jan 2026 06:48:13 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Mon, 05 Jan 2026 14:59:08 GMT</pubDate>
+    <pubDate>Tue, 06 Jan 2026 06:47:57 GMT</pubDate>
   </item><item>
     <title>CLAUDE</title>
     <link>https://quartz.jzhao.xyz/CLAUDE</link>
     <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
     <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Mon, 05 Jan 2026 14:59:08 GMT</pubDate>
+    <pubDate>Tue, 06 Jan 2026 06:47:57 GMT</pubDate>
   </item><item>
     <title>GAM-전환-전략</title>
     <link>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</link>
     <guid>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</guid>
     <description><![CDATA[ Adrop → Google Ad Manager 전환 전략 1. 요약 항목내용현재Adrop 광고 플랫폼목표Google Ad Manager (GAM) + 자체 광고주 어드민예상 기간3-4개월예상 비용개발 3,000-5,000만원 / 운영 월 50-100만원 2. ]]></description>
-    <pubDate>Mon, 05 Jan 2026 14:59:08 GMT</pubDate>
+    <pubDate>Tue, 06 Jan 2026 06:47:57 GMT</pubDate>
+  </item><item>
+    <title>2026-01-06</title>
+    <link>https://quartz.jzhao.xyz/Daily/2026-01-06</link>
+    <guid>https://quartz.jzhao.xyz/Daily/2026-01-06</guid>
+    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [기타] 재진님께 할당해드릴 태스크 점검 로그인 개편 미완료 부분 1차 파악 후 전달 [기타] 소셜 계정 이메일 로그인 처리 문서 정리 [광고] 해외 유저 대상 구글 광고 노출 수정 (제휴 광고 대체) [스토어] 케빈스랩 상세페이지 이미지 렌더링 문제 확인 [스토어] 스토어 도메인에 존재하는 도메인 모델들 정의 Product, ProductOption, ProductReview Order, OrderOption, OrderSheet Claim, Delivery PriceInfo, Refu... ]]></description>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>로그인-개편-미완료-부분-1차</title>
+    <link>https://quartz.jzhao.xyz/Projects/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B0%9C%ED%8E%B8-%EB%AF%B8%EC%99%84%EB%A3%8C-%EB%B6%80%EB%B6%84-1%EC%B0%A8</link>
+    <guid>https://quartz.jzhao.xyz/Projects/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B0%9C%ED%8E%B8-%EB%AF%B8%EC%99%84%EB%A3%8C-%EB%B6%80%EB%B6%84-1%EC%B0%A8</guid>
+    <description><![CDATA[ 로그인 개편 미완료 부분 1차 개요 로그인 개편 작업 중 미완료된 부분을 파악하고 재진님께 인수인계할 내용 정리. ]]></description>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>소셜-계정-이메일-로그인-처리</title>
+    <link>https://quartz.jzhao.xyz/Projects/%EC%86%8C%EC%85%9C-%EA%B3%84%EC%A0%95-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC</link>
+    <guid>https://quartz.jzhao.xyz/Projects/%EC%86%8C%EC%85%9C-%EA%B3%84%EC%A0%95-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC</guid>
+    <description><![CDATA[ 비밀번호 미설정 소셜 가입 계정의 이메일 로그인 처리 배경 시나리오 사용자가 구글 로그인으로 가입 온보딩 플로우를 거치지 않아 비밀번호가 설정되지 않은 상태 이후 이메일 로그인 시도 문제점 비밀번호가 없어 비밀번호 입력 인풋을 보여주는 것은 부적절 이미 가입된 계정이므로 새로 가입을 유도하는 것도 부적절 제안 처리 방식: 소셜 로그인 유도 비밀번호가 설정되지 않은 소셜 가입 계정이 이메일 로그인을 시도할 경우, 소셜 로그인으로 유도하는 것을 제안합니다. ]]></description>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>2026-01-05</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-05</link>
     <guid>https://quartz.jzhao.xyz/Daily/2026-01-05</guid>
-    <description><![CDATA[ 2026-01-05 어제 한 일 오늘 할 일 [기타] 이재진님 노트북 닦아서 준비 (일찍 출근) [기타] 채수빈님 노트북 닦기 [기타] 재진님 초대 목록 리스트업해서 초대하기 [기타] 희엽님 오프보딩 처리하기 [기타] 트랙패드 챙기기 [기타] 16kb page size 문제 해결 (Google Play Console 경고) [테마 스토어] 안드로이드 테마 변경 오류 해결 (김조에님 문의 - 12/9부터 미해결) 막힌 일 특이사항 . ]]></description>
+    <description><![CDATA[ 2026-01-05 어제 한 일 오늘 할 일 [기타] 이재진님 노트북 닦아서 준비 (일찍 출근) [기타] 채수빈님 노트북 닦기 [기타] 재진님 초대 목록 리스트업해서 초대하기 [기타] 희엽님 오프보딩 처리하기 [기타] 트랙패드 챙기기 [기타] 충전기 챙기기 [기타] 16kb page size 문제 해결 (Google Play Console 경고) [테마 스토어] 안드로이드 테마 변경 오류 해결 (김조에님 문의 - 12/9부터 미해결) 막힌 일 특이사항 . ]]></description>
     <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>재진님-초대-목록</title>
@@ -53,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Projects/%ED%9D%AC%EC%97%BD%EB%8B%98-%EC%98%A4%ED%94%84%EB%B3%B4%EB%94%A9</guid>
     <description><![CDATA[ 희엽님 오프보딩 해제/탈퇴할 것들 피그마 노션 디스코드 커서 AI 도구 깃헙 플레이스토어 앱스토어 어드민 Expo Supabase Firebase Upstash 레비뉴캣 센트리 리니어 플렉스 AWS → IAM 계정 구글 워크스페이스(이메일) → 보관처리 (준우님께서 처리.) 장비 포맷 후 반납 패스트파이브 멤버 탈퇴 패스트파이브 카드키 반납 . ]]></description>
     <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>2026-01-04</title>
-    <link>https://quartz.jzhao.xyz/Daily/2026-01-04</link>
-    <guid>https://quartz.jzhao.xyz/Daily/2026-01-04</guid>
-    <description><![CDATA[ 2026-01-04 어제 한 일 오늘 할 일 [기타] 재진님 PR 리뷰 [기타] 재진님께 컴포지션 패턴 관련 레퍼런스 파악해서 전달 [기타] quartz 세팅 [기타] 개인 노트북 포맷 막힌 일 특이사항 . ]]></description>
-    <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>quartz-세팅</title>
-    <link>https://quartz.jzhao.xyz/Projects/quartz-%EC%84%B8%ED%8C%85</link>
-    <guid>https://quartz.jzhao.xyz/Projects/quartz-%EC%84%B8%ED%8C%85</guid>
-    <description><![CDATA[ Quartz 세팅 jackyzha0/quartz - 마크다운 기반 정적 사이트 생성기 목표 Second Brain을 웹으로 퍼블리싱 할 일 Quartz 설치 기본 설정 배포 설정 참고 . ]]></description>
-    <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
