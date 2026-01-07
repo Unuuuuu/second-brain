@@ -10,30 +10,42 @@
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Tue, 06 Jan 2026 06:58:30 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 01:33:22 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Tue, 06 Jan 2026 06:58:14 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
+  </item><item>
+    <title>AdMob-설정-변경-검토-요청</title>
+    <link>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</link>
+    <guid>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</guid>
+    <description><![CDATA[ 작성일: 2026년 1월 6일 요약 전면 광고(Interstitial Ad) 도입에 따라 사용자 경험 개선을 위해 아래 두 가지 AdMob 설정을 OFF로 변경하고자 합니다. 검토 부탁드립니다. ]]></description>
+    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
   </item><item>
     <title>GAM-전환-전략</title>
     <link>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</link>
     <guid>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</guid>
     <description><![CDATA[ Adrop → Google Ad Manager 전환 전략 1. 요약 항목내용현재Adrop 광고 플랫폼목표Google Ad Manager (GAM) + 자체 광고주 어드민예상 기간3-4개월예상 비용개발 3,000-5,000만원 / 운영 월 50-100만원 2. ]]></description>
-    <pubDate>Tue, 06 Jan 2026 06:58:14 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
   </item><item>
     <title>CLAUDE</title>
     <link>https://quartz.jzhao.xyz/CLAUDE</link>
     <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
     <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Tue, 06 Jan 2026 06:58:14 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
+  </item><item>
+    <title>묵상-기록</title>
+    <link>https://quartz.jzhao.xyz/Areas/Christian/%EB%AC%B5%EC%83%81-%EA%B8%B0%EB%A1%9D</link>
+    <guid>https://quartz.jzhao.xyz/Areas/Christian/%EB%AC%B5%EC%83%81-%EA%B8%B0%EB%A1%9D</guid>
+    <description><![CDATA[ 묵상 기록 2026-01-07 📖 요한복음 1:1-5 💡 핵심: 예수님은 태초부터 계신 하나님이시며, 만물을 창조하셨고, 그분 안에 생명과 빛이 있다. 🙏 적용: 오늘 하루 “예수님, 당신이 누구신지 더 알게 해주세요”라고 기도하기. ]]></description>
+    <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>2026-01-06</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-06</link>
     <guid>https://quartz.jzhao.xyz/Daily/2026-01-06</guid>
-    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [기타] 재진님께 할당해드릴 태스크 점검 로그인 개편 미완료 부분 1차 파악 후 전달 [기타] 소셜 계정 이메일 로그인 처리 문서 정리 [광고] 해외 유저 구글 광고 노출 수정 [스토어] 케빈스랩 상세페이지 이미지 렌더링 문제 확인 [스토어] 스토어 도메인에 존재하는 도메인 모델들 정의 Product, ProductOption, ProductReview Order, OrderOption, OrderSheet Claim, Delivery PriceInfo, RefundInfo, Receip... ]]></description>
+    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [신앙] 성경 묵상 [기타] 재진님께 할당해드릴 태스크 점검 로그인 개편 미완료 부분 1차 파악 후 전달 [기타] 소셜 계정 이메일 로그인 처리 문서 정리 [광고] 해외 유저 구글 광고 노출 수정 AdMob 설정 변경 검토 요청 [기타] 재진님 다국어 적용 PR 리뷰 [스토어] 케빈스랩 상세페이지 이미지 렌더링 문제 확인 [스토어] 스토어 도메인 모델 정의 Product ProductOption OrderSheet Order OrderOption Claim Delivery PriceInf... ]]></description>
     <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>로그인-개편-미완료-부분-1차</title>
@@ -48,23 +60,11 @@
     <description><![CDATA[ 비밀번호 미설정 소셜 가입 계정의 이메일 로그인 처리 배경 시나리오 사용자가 구글 로그인으로 가입 온보딩 플로우를 거치지 않아 비밀번호가 설정되지 않은 상태 이후 이메일 로그인 시도 문제점 비밀번호가 없어 비밀번호 입력 인풋을 보여주는 것은 부적절 이미 가입된 계정이므로 새로 가입을 유도하는 것도 부적절 제안 처리 방식: 소셜 로그인 유도 비밀번호가 설정되지 않은 소셜 가입 계정이 이메일 로그인을 시도할 경우, 소셜 로그인으로 유도하는 것을 제안합니다. ]]></description>
     <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>해외-유저-구글-광고-노출-수정</title>
-    <link>https://quartz.jzhao.xyz/Projects/%ED%95%B4%EC%99%B8-%EC%9C%A0%EC%A0%80-%EA%B5%AC%EA%B8%80-%EA%B4%91%EA%B3%A0-%EB%85%B8%EC%B6%9C-%EC%88%98%EC%A0%95</link>
-    <guid>https://quartz.jzhao.xyz/Projects/%ED%95%B4%EC%99%B8-%EC%9C%A0%EC%A0%80-%EA%B5%AC%EA%B8%80-%EA%B4%91%EA%B3%A0-%EB%85%B8%EC%B6%9C-%EC%88%98%EC%A0%95</guid>
-    <description><![CDATA[ 해외 유저 구글 광고 노출 수정 배경 제휴 광고는 국내 사용자에게만 국한되는 경우가 대부분이므로, 해외 사용자에게는 미노출하고자함 해외 사용자의 트래픽은 허수 트래픽에 가까워, 성과에 악영향을 미칠 가능성이 높음 현재 상황 해외 사용자는 디바이스의 regionCode ≠ KR로 분류함 해외 사용자는 임팩트 메인팝업(제휴 광고) 대신 Google Admob Opening Ads가 노출됨 해외 사용자에게 배너4종, 전면팝업4종 CPC 광고가 노출됨 액션 아이템 배너 광고 → 해외 사용자에게는 항상 네트워크 광고를 노출함 전면팝업 광고 ... ]]></description>
+    <title>스토어-도메인-모델-정의</title>
+    <link>https://quartz.jzhao.xyz/Projects/%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%EC%A0%95%EC%9D%98</link>
+    <guid>https://quartz.jzhao.xyz/Projects/%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%EC%A0%95%EC%9D%98</guid>
+    <description><![CDATA[ 스토어 도메인 모델 정의 목표 스토어 도메인에 존재하는 도메인 모델들을 명확하게 정의한다. ]]></description>
     <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>2026-01-05</title>
-    <link>https://quartz.jzhao.xyz/Daily/2026-01-05</link>
-    <guid>https://quartz.jzhao.xyz/Daily/2026-01-05</guid>
-    <description><![CDATA[ 2026-01-05 어제 한 일 오늘 할 일 [기타] 이재진님 노트북 닦아서 준비 (일찍 출근) [기타] 채수빈님 노트북 닦기 [기타] 재진님 초대 목록 리스트업해서 초대하기 [기타] 희엽님 오프보딩 처리하기 [기타] 트랙패드 챙기기 [기타] 충전기 챙기기 [기타] 16kb page size 문제 해결 (Google Play Console 경고) [테마 스토어] 안드로이드 테마 변경 오류 해결 (김조에님 문의 - 12/9부터 미해결) 막힌 일 특이사항 . ]]></description>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>재진님-초대-목록</title>
-    <link>https://quartz.jzhao.xyz/Projects/%EC%9E%AC%EC%A7%84%EB%8B%98-%EC%B4%88%EB%8C%80-%EB%AA%A9%EB%A1%9D</link>
-    <guid>https://quartz.jzhao.xyz/Projects/%EC%9E%AC%EC%A7%84%EB%8B%98-%EC%B4%88%EB%8C%80-%EB%AA%A9%EB%A1%9D</guid>
-    <description><![CDATA[ 재진님 초대 목록 초대할 것들 피그마 노션 디스코드 클로드 깃헙 플레이스토어 앱스토어 어드민 Expo Supabase Firebase Upstash 레비뉴캣 센트리 리니어 (현재 사용하지 않음.) 플렉스 AWS → IAM 계정 (나중에 필요하면.) 구글 워크스페이스(이메일) 패스트파이브 카드키 사용자 정보 변경 (준우님이 요청.) . ]]></description>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
