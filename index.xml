@@ -10,31 +10,31 @@
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Wed, 07 Jan 2026 01:33:22 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 03:05:06 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
-  </item><item>
-    <title>AdMob-설정-변경-검토-요청</title>
-    <link>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</link>
-    <guid>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</guid>
-    <description><![CDATA[ 작성일: 2026년 1월 6일 요약 전면 광고(Interstitial Ad) 도입에 따라 사용자 경험 개선을 위해 아래 두 가지 AdMob 설정을 OFF로 변경하고자 합니다. 검토 부탁드립니다. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 03:04:50 GMT</pubDate>
   </item><item>
     <title>GAM-전환-전략</title>
     <link>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</link>
     <guid>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</guid>
     <description><![CDATA[ Adrop → Google Ad Manager 전환 전략 1. 요약 항목내용현재Adrop 광고 플랫폼목표Google Ad Manager (GAM) + 자체 광고주 어드민예상 기간3-4개월예상 비용개발 3,000-5,000만원 / 운영 월 50-100만원 2. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 03:04:50 GMT</pubDate>
   </item><item>
     <title>CLAUDE</title>
     <link>https://quartz.jzhao.xyz/CLAUDE</link>
     <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
     <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 01:33:08 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 03:04:50 GMT</pubDate>
+  </item><item>
+    <title>AdMob-설정-변경-검토-요청</title>
+    <link>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</link>
+    <guid>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</guid>
+    <description><![CDATA[ 작성일: 2026년 1월 6일 요약 전면 광고(Interstitial Ad) 도입에 따라 사용자 경험 개선을 위해 아래 두 가지 AdMob 설정을 OFF로 변경하고자 합니다. 검토 부탁드립니다. ]]></description>
+    <pubDate>Wed, 07 Jan 2026 03:04:50 GMT</pubDate>
   </item><item>
     <title>묵상-기록</title>
     <link>https://quartz.jzhao.xyz/Areas/Christian/%EB%AC%B5%EC%83%81-%EA%B8%B0%EB%A1%9D</link>
@@ -45,7 +45,13 @@
     <title>2026-01-06</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-06</link>
     <guid>https://quartz.jzhao.xyz/Daily/2026-01-06</guid>
-    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [신앙] 성경 묵상 [기타] 재진님께 할당해드릴 태스크 점검 로그인 개편 미완료 부분 1차 파악 후 전달 [기타] 소셜 계정 이메일 로그인 처리 문서 정리 [광고] 해외 유저 구글 광고 노출 수정 AdMob 설정 변경 검토 요청 [기타] 재진님 다국어 적용 PR 리뷰 [스토어] 케빈스랩 상세페이지 이미지 렌더링 문제 확인 [스토어] 스토어 도메인 모델 정의 Product ProductOption OrderSheet Order OrderOption Claim Delivery PriceInf... ]]></description>
+    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [신앙] 성경 묵상 [기타] 재진님께 할당해드릴 태스크 점검 로그인 개편 미완료 부분 1차 파악 후 전달 [로그인] 소셜 계정 이메일 로그인 처리 문서 정리 [광고] 해외 유저 구글 광고 노출 수정 AdMob 설정 변경 검토 요청 [로그인] 재진님 다국어 적용 PR 리뷰 [스토어] 케빈스랩 상세페이지 이미지 렌더링 문제 확인 [스토어] 스토어 도메인 모델 정의 Product ProductOption OrderSheet Order OrderOption Claim Delivery PriceI... ]]></description>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>2026-01-07</title>
+    <link>https://quartz.jzhao.xyz/Daily/2026-01-07</link>
+    <guid>https://quartz.jzhao.xyz/Daily/2026-01-07</guid>
+    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [광고] 해외 유저 구글 광고 노출 수정 [기타] 모바일 라우터 유심 해지 [스토어] 스토어 도메인 모델 정의 OrderSheet Order OrderOption Claim Delivery PriceInfo RefundInfo Receipt Partner [스토어] 컴포넌트 리팩터링 상품 카드 상품 상세 정보 주문 옵션 (주문서, 주문 내역 리스트, 주문 내역 상세, 취소/반품) 막힌 일 특이사항 . ]]></description>
     <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>로그인-개편-미완료-부분-1차</title>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/Projects/%EC%86%8C%EC%85%9C-%EA%B3%84%EC%A0%95-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC</link>
     <guid>https://quartz.jzhao.xyz/Projects/%EC%86%8C%EC%85%9C-%EA%B3%84%EC%A0%95-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC</guid>
     <description><![CDATA[ 비밀번호 미설정 소셜 가입 계정의 이메일 로그인 처리 배경 시나리오 사용자가 구글 로그인으로 가입 온보딩 플로우를 거치지 않아 비밀번호가 설정되지 않은 상태 이후 이메일 로그인 시도 문제점 비밀번호가 없어 비밀번호 입력 인풋을 보여주는 것은 부적절 이미 가입된 계정이므로 새로 가입을 유도하는 것도 부적절 제안 처리 방식: 소셜 로그인 유도 비밀번호가 설정되지 않은 소셜 가입 계정이 이메일 로그인을 시도할 경우, 소셜 로그인으로 유도하는 것을 제안합니다. ]]></description>
-    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>스토어-도메인-모델-정의</title>
-    <link>https://quartz.jzhao.xyz/Projects/%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%EC%A0%95%EC%9D%98</link>
-    <guid>https://quartz.jzhao.xyz/Projects/%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%EC%A0%95%EC%9D%98</guid>
-    <description><![CDATA[ 스토어 도메인 모델 정의 목표 스토어 도메인에 존재하는 도메인 모델들을 명확하게 정의한다. ]]></description>
     <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
