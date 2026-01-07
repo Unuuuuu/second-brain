@@ -10,31 +10,37 @@
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Wed, 07 Jan 2026 06:06:12 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 06:46:06 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 06:05:57 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 06:45:50 GMT</pubDate>
   </item><item>
     <title>AdMob-설정-변경-검토-요청</title>
     <link>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</link>
     <guid>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</guid>
     <description><![CDATA[ 작성일: 2026년 1월 6일 요약 전면 광고(Interstitial Ad) 도입에 따라 사용자 경험 개선을 위해 아래 두 가지 AdMob 설정을 OFF로 변경하고자 합니다. 검토 부탁드립니다. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 06:05:57 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 06:45:50 GMT</pubDate>
   </item><item>
     <title>GAM-전환-전략</title>
     <link>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</link>
     <guid>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</guid>
     <description><![CDATA[ Adrop → Google Ad Manager 전환 전략 1. 요약 항목내용현재Adrop 광고 플랫폼목표Google Ad Manager (GAM) + 자체 광고주 어드민예상 기간3-4개월예상 비용개발 3,000-5,000만원 / 운영 월 50-100만원 2. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 06:05:57 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 06:45:50 GMT</pubDate>
+  </item><item>
+    <title>Google-AdMob-전면-광고-Unit-ID-요청</title>
+    <link>https://quartz.jzhao.xyz/Projects/Google-AdMob-%EC%A0%84%EB%A9%B4-%EA%B4%91%EA%B3%A0-Unit-ID-%EC%9A%94%EC%B2%AD</link>
+    <guid>https://quartz.jzhao.xyz/Projects/Google-AdMob-%EC%A0%84%EB%A9%B4-%EA%B4%91%EA%B3%A0-Unit-ID-%EC%9A%94%EC%B2%AD</guid>
+    <description><![CDATA[ 작성일: 2026년 1월 7일 배경 해외 사용자(디바이스 지역 설정이 한국이 아닌 사용자)에게 Adrop 전면 광고 대신 Google AdMob 전면 광고를 노출하고자 함 현재 6개 위치에서 전면 광고가 노출되며, 해외 사용자 대응을 위한 Google AdMob Unit ID가 필요함 전면 광고 노출 위치 #위치트리거 시점현재 Adrop Unit ID Key비고1군인 정보 수정 완료군인 정보 수정 후 저장 시soldierEditEnd2프로필 이미지 수정 완료프로필 이미지 수정 후 저장 시profileEditEnd3진급 축하 팝업진급... ]]></description>
+    <pubDate>Wed, 07 Jan 2026 06:45:50 GMT</pubDate>
   </item><item>
     <title>CLAUDE</title>
     <link>https://quartz.jzhao.xyz/CLAUDE</link>
     <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
     <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 06:05:57 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 06:45:50 GMT</pubDate>
   </item><item>
     <title>묵상-기록</title>
     <link>https://quartz.jzhao.xyz/Areas/Christian/%EB%AC%B5%EC%83%81-%EA%B8%B0%EB%A1%9D</link>
@@ -57,13 +63,7 @@
     <title>2026-01-07</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-07</link>
     <guid>https://quartz.jzhao.xyz/Daily/2026-01-07</guid>
-    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [광고] 해외 유저 구글 광고 노출 수정 [기타] 모바일 라우터 유심 해지 [기타] 메인 회선 통신사 교체 → 아이즈모바일 [스토어] 스토어 도메인 모델 정의 OrderSheet Order OrderOption Claim Delivery PriceInfo RefundInfo Receipt Partner [스토어] 컴포넌트 리팩터링 상품 카드 상품 상세 정보 주문 옵션 (주문서, 주문 내역 리스트, 주문 내역 상세, 취소/반품) [스타일] 바버샵 방문 막힌 일 특이사항 . ]]></description>
-    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>로그인-개편-미완료-부분-1차</title>
-    <link>https://quartz.jzhao.xyz/Projects/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B0%9C%ED%8E%B8-%EB%AF%B8%EC%99%84%EB%A3%8C-%EB%B6%80%EB%B6%84-1%EC%B0%A8</link>
-    <guid>https://quartz.jzhao.xyz/Projects/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B0%9C%ED%8E%B8-%EB%AF%B8%EC%99%84%EB%A3%8C-%EB%B6%80%EB%B6%84-1%EC%B0%A8</guid>
-    <description><![CDATA[ 로그인 개편 미완료 부분 1차 개요 로그인 개편 작업 중 미완료된 부분을 파악하고 재진님께 인수인계할 내용 정리. ]]></description>
+    <description><![CDATA[ 2026-01-06 어제 한 일 오늘 할 일 [광고] 해외 유저 구글 광고 노출 수정 Google AdMob 전면 광고 Unit ID 요청 [기타] 모바일 라우터 유심 해지 [기타] 메인 회선 통신사 교체 → 아이즈모바일 [스토어] 스토어 도메인 모델 정의 OrderSheet Order OrderOption Claim Delivery PriceInfo RefundInfo Receipt Partner [스토어] 컴포넌트 리팩터링 상품 카드 상품 상세 정보 주문 옵션 (주문서, 주문 내역 리스트, 주문 내역 상세, 취소/반품) [스타일... ]]></description>
     <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
