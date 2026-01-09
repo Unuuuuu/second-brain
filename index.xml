@@ -16,55 +16,55 @@
     <link>https://quartz.jzhao.xyz/Templates/Daily</link>
     <guid>https://quartz.jzhao.xyz/Templates/Daily</guid>
     <description><![CDATA[ {{date:YYYY-MM-DD}} 어제 한 일 [도메인] 작업 내용 오늘 할 일 [도메인] 작업 내용 막힌 일 특이사항 . ]]></description>
-    <pubDate>Thu, 08 Jan 2026 02:14:20 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 05:25:02 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Home 나의 Second Brain에 오신 것을 환영합니다. ]]></description>
-    <pubDate>Thu, 08 Jan 2026 02:14:07 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 05:24:47 GMT</pubDate>
   </item><item>
     <title>AdMob-설정-변경-검토-요청</title>
     <link>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</link>
     <guid>https://quartz.jzhao.xyz/Projects/AdMob-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD-%EA%B2%80%ED%86%A0-%EC%9A%94%EC%B2%AD</guid>
     <description><![CDATA[ 작성일: 2026년 1월 6일 요약 전면 광고(Interstitial Ad) 도입에 따라 사용자 경험 개선을 위해 아래 두 가지 AdMob 설정을 OFF로 변경하고자 합니다. 검토 부탁드립니다. ]]></description>
-    <pubDate>Thu, 08 Jan 2026 02:14:07 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 05:24:47 GMT</pubDate>
   </item><item>
     <title>GAM-전환-전략</title>
     <link>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</link>
     <guid>https://quartz.jzhao.xyz/Projects/GAM-%EC%A0%84%ED%99%98-%EC%A0%84%EB%9E%B5</guid>
     <description><![CDATA[ Adrop → Google Ad Manager 전환 전략 1. 요약 항목내용현재Adrop 광고 플랫폼목표Google Ad Manager (GAM) + 자체 광고주 어드민예상 기간3-4개월예상 비용개발 3,000-5,000만원 / 운영 월 50-100만원 2. ]]></description>
-    <pubDate>Thu, 08 Jan 2026 02:14:07 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 05:24:47 GMT</pubDate>
   </item><item>
     <title>Google-AdMob-전면-광고-Unit-ID-요청</title>
     <link>https://quartz.jzhao.xyz/Projects/Google-AdMob-%EC%A0%84%EB%A9%B4-%EA%B4%91%EA%B3%A0-Unit-ID-%EC%9A%94%EC%B2%AD</link>
     <guid>https://quartz.jzhao.xyz/Projects/Google-AdMob-%EC%A0%84%EB%A9%B4-%EA%B4%91%EA%B3%A0-Unit-ID-%EC%9A%94%EC%B2%AD</guid>
     <description><![CDATA[ 작성일: 2026년 1월 7일 배경 해외 사용자(디바이스 지역 설정이 한국이 아닌 사용자)에게 Adrop 전면 광고 대신 Google AdMob 전면 광고를 노출하고자 함 현재 6개 위치에서 전면 광고가 노출되며, 해외 사용자 대응을 위한 Google AdMob Unit ID가 필요함 전면 광고 노출 위치 #위치트리거 시점현재 Adrop Unit ID Key비고1군인 정보 수정 완료군인 정보 수정 후 저장 시soldierEditEnd2프로필 이미지 수정 완료프로필 이미지 수정 후 저장 시profileEditEnd3진급 축하 팝업진급... ]]></description>
-    <pubDate>Thu, 08 Jan 2026 02:14:07 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 05:24:47 GMT</pubDate>
   </item><item>
     <title>CLAUDE</title>
     <link>https://quartz.jzhao.xyz/CLAUDE</link>
     <guid>https://quartz.jzhao.xyz/CLAUDE</guid>
     <description><![CDATA[ Second Brain - Claude 컨텍스트 이 볼트는 PARA 방식으로 구조화된 개인 지식 관리 시스템입니다. ]]></description>
-    <pubDate>Thu, 08 Jan 2026 02:14:07 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 05:24:47 GMT</pubDate>
+  </item><item>
+    <title>2026-01-09</title>
+    <link>https://quartz.jzhao.xyz/Daily/2026-01-09</link>
+    <guid>https://quartz.jzhao.xyz/Daily/2026-01-09</guid>
+    <description><![CDATA[ 2026-01-09 어제 한 일 오늘 할 일 [기타] 재진님 GraphQL 캐시 학습 자료 전달 [기타] 재진님 PR 리뷰 피드백 전달 관련 문서: 재진님 온보딩 [로그인] 본인인증 기능 강제 로그인 후 온보딩 플로우 강제 진입 온보딩 첫 화면에 공지사항 노출 온보딩 이탈 시 이어하기 선택 기능 본인인증 유예기간 토스트 공지 제거 [스토어] 컴포넌트 리팩터링 상품 카드 상품 상세 정보 주문 옵션 (주문서, 주문 내역 리스트, 주문 내역 상세, 취소/반품) 막힌 일 특이사항 . ]]></description>
+    <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>재진님-온보딩</title>
+    <link>https://quartz.jzhao.xyz/Projects/%EC%9E%AC%EC%A7%84%EB%8B%98-%EC%98%A8%EB%B3%B4%EB%94%A9</link>
+    <guid>https://quartz.jzhao.xyz/Projects/%EC%9E%AC%EC%A7%84%EB%8B%98-%EC%98%A8%EB%B3%B4%EB%94%A9</guid>
+    <description><![CDATA[ 재진님 온보딩 2026-01-09 피드백 재진님께서 하고 계신 업무는 구체적인 데드라인이 없다 지금 단계에서는 “하는 것”보다 “고민하는 시간”이 더 중요 부족한 부분을 채워나가면서 업무 진행 부족한 부분이 포착되면 학습하기 전에 먼저 공유 해당 내용이 학습할 만한 내용인지 의견 전달 예정 공유 자료 GraphQL 캐시 학습 자료 www.apollographql.com/docs/react/caching/overview hygraph.com/learn/graphql/caching . ]]></description>
+    <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>2026-01-08</title>
     <link>https://quartz.jzhao.xyz/Daily/2026-01-08</link>
     <guid>https://quartz.jzhao.xyz/Daily/2026-01-08</guid>
-    <description><![CDATA[ 2026-01-08 어제 한 일 오늘 할 일 [기타] 안드로이드 앱 접근 권한 안내 화면 미노출 문제 원인 파악 [콘텐츠] 원준님께 각 콘텐츠의 별점과 조회수 확인 방법 안내 막힌 일 특이사항 . ]]></description>
+    <description><![CDATA[ 2026-01-08 어제 한 일 오늘 할 일 [기타] 안드로이드 앱 접근 권한 안내 화면 미노출 문제 원인 파악 [로그인] 재진님 계정 찾기 완료 화면 PR 구두 리뷰 [광고] 해외 유저 구글 광고 노출 수정 [배포] 5.3.1+1 배포 외국인 사용자 대상 Google AdMob 광고 적용 Android 특정 버전 첫 실행 시 앱 접근 권한 안내 화면 미노출 문제 수정 [로그인] 재진님 계정 찾기 완료 화면 PR 리뷰 [로그인] 본인인증 기능 강제 로그인한 뒤에 온보딩 플로우를 강제로 갖는다 온보딩 플로우의 첫 화면으로 공지사항이 ... ]]></description>
     <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>묵상-기록</title>
-    <link>https://quartz.jzhao.xyz/Areas/Christian/%EB%AC%B5%EC%83%81-%EA%B8%B0%EB%A1%9D</link>
-    <guid>https://quartz.jzhao.xyz/Areas/Christian/%EB%AC%B5%EC%83%81-%EA%B8%B0%EB%A1%9D</guid>
-    <description><![CDATA[ 묵상 기록 2026-01-07 📖 요한복음 1:1-5 💡 핵심: 예수님은 태초부터 계신 하나님이시며, 만물을 창조하셨고, 그분 안에 생명과 빛이 있다. 🙏 적용: 오늘 하루 “예수님, 당신이 누구신지 더 알게 해주세요”라고 기도하기. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>통신사</title>
-    <link>https://quartz.jzhao.xyz/Areas/Life/%ED%86%B5%EC%8B%A0%EC%82%AC</link>
-    <guid>https://quartz.jzhao.xyz/Areas/Life/%ED%86%B5%EC%8B%A0%EC%82%AC</guid>
-    <description><![CDATA[ 통신사 현재 사용 중인 요금제 메인 회선 항목내용통신사아이즈모바일요금제알뜰 요금제월 요금11,900원가입일2026-01-07웹사이트eyes.co.kr요금제 상세 변경 이력 날짜내용2026-01-07메인 회선 아이즈모바일 가입 (월 11,900원). ]]></description>
-    <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
